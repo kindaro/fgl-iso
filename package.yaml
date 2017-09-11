@@ -6,6 +6,8 @@ maintainer: kindaro@gmail.com
 copyright: 2017 Ignat Insarov
 license: ISC
 github: kindaro/fgl-iso
+synopsis: Graph isomorphism & canonicalization.
+description: Graph isomorphism & canonicalization.
 extra-source-files:
 - README.md
 library:
